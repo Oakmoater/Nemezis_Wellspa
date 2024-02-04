@@ -17,7 +17,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <Provider store={store}>
       <PersistGate loading={null} persistor={persistor}>
-        <BrowserRouter basename="/">
+        <BrowserRouter basename="/Nemezis_Wellspa">
           <StyleSheetManager shouldForwardProp={isPropValid}>
             <GlobalStyle />
             <ThemeProvider theme={theme}>
