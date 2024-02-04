@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Nemezis_Wellspa/static/css/main.36380e2b.css",
-    "main.js": "/Nemezis_Wellspa/static/js/main.c516d664.js",
+    "main.js": "/Nemezis_Wellspa/static/js/main.be398912.js",
     "static/js/823.b0aba9a2.chunk.js": "/Nemezis_Wellspa/static/js/823.b0aba9a2.chunk.js",
     "static/js/756.b3e55a0f.chunk.js": "/Nemezis_Wellspa/static/js/756.b3e55a0f.chunk.js",
     "static/js/490.b17f52a7.chunk.js": "/Nemezis_Wellspa/static/js/490.b17f52a7.chunk.js",
@@ -9,7 +9,7 @@
     "static/js/270.ea154b5c.chunk.js": "/Nemezis_Wellspa/static/js/270.ea154b5c.chunk.js",
     "index.html": "/Nemezis_Wellspa/index.html",
     "main.36380e2b.css.map": "/Nemezis_Wellspa/static/css/main.36380e2b.css.map",
-    "main.c516d664.js.map": "/Nemezis_Wellspa/static/js/main.c516d664.js.map",
+    "main.be398912.js.map": "/Nemezis_Wellspa/static/js/main.be398912.js.map",
     "823.b0aba9a2.chunk.js.map": "/Nemezis_Wellspa/static/js/823.b0aba9a2.chunk.js.map",
     "756.b3e55a0f.chunk.js.map": "/Nemezis_Wellspa/static/js/756.b3e55a0f.chunk.js.map",
     "490.b17f52a7.chunk.js.map": "/Nemezis_Wellspa/static/js/490.b17f52a7.chunk.js.map",
@@ -18,6 +18,6 @@
   },
   "entrypoints": [
     "static/css/main.36380e2b.css",
-    "static/js/main.c516d664.js"
+    "static/js/main.be398912.js"
   ]
 }
