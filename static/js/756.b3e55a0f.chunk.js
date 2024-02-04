@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkNemezis_Wellspa=self.webpackChunkNemezis_Wellspa||[]).push([[756],{756:function(e,s,i){i.r(s);var l=i(4270),n=i(8194),t=i(184);s.default=function(){return(0,t.jsxs)("div",{children:[(0,t.jsx)(l.q,{children:(0,t.jsx)("title",{children:"Registration"})}),(0,t.jsx)(n.B2,{})]})}}}]);
+//# sourceMappingURL=756.b3e55a0f.chunk.js.map
