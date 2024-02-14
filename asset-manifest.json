@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/wellspa-nemezis/static/css/main.7acaea2f.css",
-    "main.js": "/wellspa-nemezis/static/js/main.ce013821.js",
-    "index.html": "/wellspa-nemezis/index.html",
-    "main.7acaea2f.css.map": "/wellspa-nemezis/static/css/main.7acaea2f.css.map",
-    "main.ce013821.js.map": "/wellspa-nemezis/static/js/main.ce013821.js.map"
+    "main.css": "/wellspa_nemezis/static/css/main.7acaea2f.css",
+    "main.js": "/wellspa_nemezis/static/js/main.ce013821.js",
+    "index.html": "/wellspa_nemezis/index.html",
+    "main.7acaea2f.css.map": "/wellspa_nemezis/static/css/main.7acaea2f.css.map",
+    "main.ce013821.js.map": "/wellspa_nemezis/static/js/main.ce013821.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
