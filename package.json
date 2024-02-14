@@ -1,8 +1,8 @@
 {
-  "name": "wellspa-nemezis",
+  "name": "wellspa_nemezis",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Oakmoater.github.io/wellspa-nemezis/",
+  "homepage": "https://Oakmoater.github.io/wellspa_nemezis/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
