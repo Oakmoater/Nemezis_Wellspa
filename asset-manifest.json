@@ -1,23 +1,13 @@
 {
   "files": {
-    "main.css": "/Nemezis_Wellspa/static/css/main.36380e2b.css",
-    "main.js": "/Nemezis_Wellspa/static/js/main.be398912.js",
-    "static/js/823.b0aba9a2.chunk.js": "/Nemezis_Wellspa/static/js/823.b0aba9a2.chunk.js",
-    "static/js/756.b3e55a0f.chunk.js": "/Nemezis_Wellspa/static/js/756.b3e55a0f.chunk.js",
-    "static/js/490.b17f52a7.chunk.js": "/Nemezis_Wellspa/static/js/490.b17f52a7.chunk.js",
-    "static/js/329.3ea39d98.chunk.js": "/Nemezis_Wellspa/static/js/329.3ea39d98.chunk.js",
-    "static/js/270.ea154b5c.chunk.js": "/Nemezis_Wellspa/static/js/270.ea154b5c.chunk.js",
-    "index.html": "/Nemezis_Wellspa/index.html",
-    "main.36380e2b.css.map": "/Nemezis_Wellspa/static/css/main.36380e2b.css.map",
-    "main.be398912.js.map": "/Nemezis_Wellspa/static/js/main.be398912.js.map",
-    "823.b0aba9a2.chunk.js.map": "/Nemezis_Wellspa/static/js/823.b0aba9a2.chunk.js.map",
-    "756.b3e55a0f.chunk.js.map": "/Nemezis_Wellspa/static/js/756.b3e55a0f.chunk.js.map",
-    "490.b17f52a7.chunk.js.map": "/Nemezis_Wellspa/static/js/490.b17f52a7.chunk.js.map",
-    "329.3ea39d98.chunk.js.map": "/Nemezis_Wellspa/static/js/329.3ea39d98.chunk.js.map",
-    "270.ea154b5c.chunk.js.map": "/Nemezis_Wellspa/static/js/270.ea154b5c.chunk.js.map"
+    "main.css": "/wellspa-nemezis/static/css/main.7acaea2f.css",
+    "main.js": "/wellspa-nemezis/static/js/main.ce013821.js",
+    "index.html": "/wellspa-nemezis/index.html",
+    "main.7acaea2f.css.map": "/wellspa-nemezis/static/css/main.7acaea2f.css.map",
+    "main.ce013821.js.map": "/wellspa-nemezis/static/js/main.ce013821.js.map"
   },
   "entrypoints": [
-    "static/css/main.36380e2b.css",
-    "static/js/main.be398912.js"
+    "static/css/main.7acaea2f.css",
+    "static/js/main.ce013821.js"
   ]
 }
