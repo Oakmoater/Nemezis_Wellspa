@@ -1,0 +1,7 @@
+[
+  { "id": "id-1", "label": "obkladova doska", "percentage": 22 },
+  { "id": "id-2", "label": "lavicova doska", "percentage": 4 },
+  { "id": "id-3", "label": "sklo", "percentage": 17 },
+  { "id": "id-4", "label": "kabliki hujabliki", "percentage": 47 },
+  { "id": "id-5", "label": "pecka", "percentage": 10 }
+]
